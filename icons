@@ -5,30 +5,19 @@
              Folder -
              name test
 
-              __ 
-             │  └────╮
-             │   /   │
-             ╰───────╯
-             Folder -
-             name test
 
              ╭───┬───╮
              │   ╽   │
-             │       │
              ╰───────╯
              zip -
              name test
 
+
              ╭───────╮
              │ >_    │
-             │       │
              ╰───────╯
              .sh -
              name test
 
 
 
-             
-            
-
-            
