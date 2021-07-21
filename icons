@@ -20,4 +20,39 @@
              name test
 
 
+             ╭──────╮
+             │.ext  │
+             ╰──────╯
+             .ext -
+             name test
 
+
+
+
+              _ 
+             │ └─╮
+             │ / │
+             ╰───╯
+             Folder -
+             name test
+
+
+             ╭─┬─╮
+             │ ╽ │
+             ╰───╯
+             zip -
+             name test
+
+
+             ╭───╮
+             │>_ │
+             ╰───╯
+             .sh -
+             name test
+
+
+             ╭───╮
+             │ext│
+             ╰───╯
+             .ext -
+             name test
